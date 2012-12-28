@@ -1,0 +1,13 @@
+.x-grid-checkheader {
+   background: url(../../images/led-icons.png) no-repeat top left;
+   background-position: -32px -1352px !important; width: 16px; height: 16px;
+}
+
+.x-grid-checkheader-checked {
+    background: url(../../images/led-icons.png) no-repeat top left;
+    background-position: -192px -1344px !important; width: 16px; height: 16px;
+}
+
+.x-grid-checkheader-editor .x-form-cb-wrap {
+    text-align: center;
+}
